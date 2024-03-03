@@ -23,3 +23,17 @@ pm2 start ecosystem.config.js
 rm -rf run/data/*
 rm -rf Youtube
 ```
+# Todo List
+- YouTube short
+- youtube member(会员视频)下载,这个好像有点棘手
+- telegram聊天记录
+- 推文备份
+- QQ消息备份
+- 微信消息备份
+- pixiv收藏备份
+- pixiv收藏画师备份
+- fanbox备份
+- Chrome历史记录备份
+- Termius数据备份
+- 数据库功能
+- 简易web管理节目
